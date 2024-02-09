@@ -11,7 +11,7 @@ Forge to MC Launcher is a lightweight tool to transfer your Modprofiles from Cus
 <br>
 <h3>Step 1</h3>
 Downlaod ForgeToMCLauncher over the releases page on the right side of this page. Unpack the zip Folder and run the
-"ForgeToMcLauncher.exe"-file. If a blue smartscreen window pops up simply click on "more information" and then "run anyways" on the bottom. If can now see the ForgeToMcLaucher Window(see below), skip along to Step2.
+"ForgeToMcLauncher.exe"-file. (First launch can take a while) If a blue smartscreen window pops up simply click on "more information" and then "run anyways" on the bottom. If can now see the ForgeToMcLaucher Window(see below), skip along to Step2.
 
 ![image](https://github.com/derdavidoo/Forge-to-Minecraft-Launcher/assets/145209719/29beea58-1e63-458b-ac74-6298ab1a68ce)
 <br>
