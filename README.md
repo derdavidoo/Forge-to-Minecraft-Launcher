@@ -2,7 +2,7 @@
 ![logoicon](https://github.com/derdavidoo/Forge-to-Minecraft-Launcher/assets/145209719/a9f617d0-be02-405a-955a-0667bf4d5416)
 # Forge-to-Minecraft-Launcher
 
-Forge to MC Launcher is a lightweight tool to transfer your Modprofiles from CusreForge to the default Minecraft Launcher. This will save you a lot of time in the future!
+Forge to MC Launcher is a lightweight tool to transfer your Modprofiles from CurseForge to the default Minecraft Launcher. This will save you a lot of time in the future!
 
 <br>
 
