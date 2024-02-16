@@ -54,7 +54,7 @@ All Errors should now be resolved! (If not message me pls)
 <h3>Step 3</h3>
 <br>
 Now you should see all your modprofiles in this list.
-<h3>IMPORTANT: Make shre you have played the profiles over CurseForge once before you transfer them with my tool or the Game will crash while launching</h3>
+<h3>IMPORTANT: Make sure you have played the profiles over CurseForge once before you transfer them with my tool or the Game will crash while launching</h3>
 (Vanilla Packs are not supported yet)
 
 ![image](https://github.com/derdavidoo/Forge-to-Minecraft-Launcher/assets/145209719/fcb031ea-2402-40a9-aa4a-96df9d3b9a65)
